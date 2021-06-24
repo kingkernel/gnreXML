@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'thisvendor\\' => array($baseDir . '/'),
+    'kingkernel\\' => array($baseDir . '/'),
 );
