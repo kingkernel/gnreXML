@@ -1,0 +1,14 @@
+{
+    "name": "kingkernel/myblankproject",
+    "description": "start of a project with composer",
+    "authors":[{
+        "name" : "here goes your name",
+        "email": "hereyouremail@company.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+             "kingkernel\\": ""
+         }
+      }
+}
